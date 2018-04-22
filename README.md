@@ -10,7 +10,7 @@ A mono-objective genetic algorithm adapted for the Travelling Salesman Problem c
 * A choice between multiple crossover options (partial crossover, crossover based on position, crossover based on cycle)
 * A choice between multiple mutation options (exchange mutation, insertion mutation, inversion mutation, shifting mutation)
 
-The best known path is printed onto a graph at each iteration.
+The best known path is printed onto a graph at each iteration. Results are discussed in the report.
 
 ## File organisation
 
